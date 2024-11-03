@@ -1,0 +1,28 @@
+﻿  DpiHelpers.cpp
+  Functions.cpp
+C:\Users\Admin\Desktop\Winver-main\winver\DpiHelpers.cpp(64,19): warning C4244: 'argument': conversion from 'Gdiplus::REAL' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\DpiHelpers.cpp(64,9): warning C4244: 'initializing': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\DpiHelpers.cpp(65,19): warning C4244: 'argument': conversion from 'Gdiplus::REAL' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\DpiHelpers.cpp(65,9): warning C4244: 'initializing': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\DpiHelpers.cpp(72,19): warning C4244: 'argument': conversion from 'Gdiplus::REAL' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\DpiHelpers.cpp(72,9): warning C4244: 'initializing': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\DpiHelpers.cpp(73,19): warning C4244: 'argument': conversion from 'Gdiplus::REAL' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\DpiHelpers.cpp(73,9): warning C4244: 'initializing': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\DpiHelpers.cpp(74,23): warning C4244: 'argument': conversion from 'Gdiplus::REAL' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\DpiHelpers.cpp(74,13): warning C4244: 'initializing': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\DpiHelpers.cpp(75,24): warning C4244: 'argument': conversion from 'Gdiplus::REAL' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\DpiHelpers.cpp(75,14): warning C4244: 'initializing': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\Functions.cpp(278,23): warning C4244: '=': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\Functions.cpp(287,72): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\Functions.cpp(287,65): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\Functions.cpp(288,64): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\Functions.cpp(289,71): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\Functions.cpp(307,25): warning C4244: '=': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\Functions.cpp(330,24): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\Functions.cpp(451,92): warning C4244: 'argument': conversion from 'LONG' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\Functions.cpp(451,59): warning C4244: 'argument': conversion from 'LONG' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\Functions.cpp(451,38): warning C4244: 'argument': conversion from 'LONG' to 'Gdiplus::REAL', possible loss of data
+C:\Users\Admin\Desktop\Winver-main\winver\Functions.cpp(451,23): warning C4244: 'argument': conversion from 'LONG' to 'Gdiplus::REAL', possible loss of data
+  winver.cpp
+  Generating Code...
+  winver.vcxproj -> C:\Users\Admin\Desktop\Winver-main\x64\Debug\winver.exe
