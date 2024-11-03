@@ -1,19 +1,9 @@
-# Winver
-![GitHub top language](https://img.shields.io/github/languages/top/rounk-ctrl/winver)
-![Lines of code](https://img.shields.io/tokei/lines/github/rounk-ctrl/winver)
-![License](https://img.shields.io/github/license/rounk-ctrl/winver)
-[![CodeFactor](https://www.codefactor.io/repository/github/rounk-ctrl/winver/badge)](https://www.codefactor.io/repository/github/rounk-ctrl/winver)
+# Winver Dark
 
-win32 real
+---
+This is a fork of the rectify11 winver - https://github.com/rounk-ctrl/Winver
 
-### Languages added:
- - Polish
- - Greek
- - German
- - French
- - Hungarian
- - Vietnamese
- - Chinese simplified
- - Italian
- - Russian
- - Spanish
+Minor Changes Made - 
+- Rounded border for OK Button  
+- Official Windows 11 Image 
+- Additional Mono Colored Windows 11 Image
